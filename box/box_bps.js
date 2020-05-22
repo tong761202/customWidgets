@@ -1,6 +1,6 @@
 (function()  {
 	let template = document.createElement("template");
-	template.innerHTML = ;
+	template.innerHTML = '
 		<form id="form">
 			<fieldset>
 				<legend>Color Properties</legend>
